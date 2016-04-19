@@ -19,11 +19,11 @@ You can even store your logs in file, ElasticSearch or MySQL Database.
     
 #### How to Get:
 ``` sh
-$ go get github.com/sadlil/gologger
+$ go get github.com/sujaimca/go-logger
 ```
 #### How To Use:
 ``` go
-import "github.com/sadlil/gologger"
+import "github.com/sujaimca/go-logger"
 
 Console::
 logger = gologger.GetLogger(gologger.CONSOLE, gologger.SimpleLog) 
