@@ -8,3 +8,4 @@ install:
   - go get "github.com/shiena/ansicolor"
   - go get "github.com/mattbaird/elastigo"
   - go get "github.com/stretchr/testify/assert"
+  - go get "github.com/spf13/pflag"
